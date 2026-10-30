@@ -155,6 +155,17 @@ Make each piece of work travel further and turn attention into opportunities.
 
 **Done when:** opportunities come to you regularly from the brand, not just your own outreach.
 
+## Later: business setup
+
+This isn't urgent. Set up a legal entity once the brand starts earning money, from things like speaking fees, consulting, sponsorships or paid products.
+
+- [ ] Pick the trigger for setting it up, e.g. your first paid gig or sponsor
+- [ ] Talk to a CPA or business attorney about structure (e.g. an LLC, and whether to elect S-corp tax status) and taxes
+- [ ] Decide with Larry: an LLC each, and how to hold any joint show (its own entity, or a written agreement)
+- [ ] Form the LLC and get an EIN; in California, budget for the $800 minimum annual franchise tax
+- [ ] Open a business bank account and keep brand income and costs separate
+- [ ] For joint work, put ownership, revenue split and what happens if one of you leaves in writing
+
 ## Ongoing: measure and refine
 
 Review regularly and adjust; the brand should sharpen as you learn what lands.
